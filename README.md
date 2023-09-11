@@ -12,6 +12,6 @@ The film will end with a clear list of actions that the audience can make to hel
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1Ndb4X_3IpgkRJSIRi5U14AS4E9WtGeV3/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://drive.google.com/file/d/1Ndb4X_3IpgkRJSIRi5U14AS4E9WtGeV3" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
