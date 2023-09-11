@@ -10,10 +10,4 @@ The film will end with a clear list of actions that the audience can make to hel
 
 ## Footage from a Bombus sonorus nest in Palos Verdes August 2023
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://youtu.be/xY1uNKhST6s" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
 [<img src="https://youtu.be/xY1uNKhST6s" width="50%">](https://youtu.be/xY1uNKhST6s "Now in Android: 55")
