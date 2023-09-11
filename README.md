@@ -1,6 +1,9 @@
 ## Native Bees of California 
 Cinematographer Elliot Lowndes
 
-## Synopsis
-The film will first identify native bees as distinct from the honey bee, then the film will move on to cover the importance of native bees, the threats facing native bee populations, and the solutions to combat those threats - including native habitat restoration and preservation. I also want to take a deep dive into a couple of species’ life cycles. I think presenting a “season from the perspective of a bee” can help an audience empathize with them. 
-By juxtaposing two species that nest in very different ways - perhaps the western leaf cutting bee and the bindweed turret bee, for example, I can also try to get across the massive diversity of native bee species. If there is time, I might try to squeeze in a bit about the spectrum of sociality between some species. After the life cycle chapter, perhaps I could also use a montage to communicate the thousands of remaining species that haven’t been covered in depth, from the tiny fairy bees to the giant valley carpenters.
+## Summary of project
+The film will first identify native bees as distinct from the honey bee, then the film will move on to cover the importance of native bees as pollinators, the threats facing native bee populations, and the solutions to combat those threats - including native habitat restoration and preservation. The second half of the film will take a deep dive into a couple of species’ life cycles using immersive macro and slow motion imagery to follow a couple of individual bees through spring/summer as they emerge from their nests, forage for food and nesting material, mate, and build their own nests. The goal of these deep-dives is to help the audience empathize with the subjects as they follow the bees in their journey to survive and provide for their offspring. 
+
+By juxtaposing two species that nest in very different ways - perhaps the western leaf cutting bee and the bindweed turret bee, for example, a secondary goal is to convey the massive diversity of native bee species. Montage of diversity in shapes, sizes, lifecyles, adaptations to native flora, and the spectrum of sociality between some native bee species will also be used to communicate the thousands of species of Native bee in the wild.
+
+The film will end with a clear list of actions that the audience can make to help native bee populations, including preservation and restoration of native landscapes, native planting and habitat in urban and agricultural settings, supporting organic and regenerative farming practices.
